@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "http://me.ameerabbas.com/solutions-modern-cicd-anthos/"
 title = "Goldydocs"
 
 enableRobotsTXT = true
